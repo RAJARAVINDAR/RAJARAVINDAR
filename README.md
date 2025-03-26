@@ -2,9 +2,9 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java full stack development
 - 💞️ I’m looking to collaborate on JAVA
-- 📫 How to reach me ravindarmahanakali@gmail.com
+- 📫 How to reach me ravindarmahanakali@gmail.com,Hyderabad
 - 😄 Pronouns: RAVI
-- ⚡ Fun fact: being rude at to learn new things
+- ⚡ Fun fact: being excited at to learn new things
 
 <!---
 RAJARAVINDAR/RAJARAVINDAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
