@@ -1,0 +1,25 @@
+public class demo{
+public static void main(String[]args){
+String s1="abfdheriai";
+int vowels=0;
+int consonants=0;
+String s=s1.touppercase();//in built method to covert lower case to uppercase
+for(int i=0;i<s.lenght();i++){
+char ch=charAt(i);
+if(ch>='A'&&ch<='z'){
+swicth(ch){
+case 'A':
+case 'E':
+case 'I':
+case 'O':
+case 'U': 
+vowels++;
+break;
+default:consonants
+}
+}
+System.out.println("vowels is"+vowel);
+System.out.println("consonants is"+consonants);
+}
+}
+}
